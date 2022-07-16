@@ -75,3 +75,11 @@ Because of my curiosity as a data analyst i dived deeper into exploring/uncoveri
 - There where was about 3 times more fatalities than survivors, we could clearly see that in the numbers with fatalities summing up to 105k and survivors at 39k
 - Some other causes of airplane crashes were caused by wildlife(birds crashing into the propellers), landing errors, mechanical errors and pilot errors and also miscommunication between flight crews and air traffic control.
 - From my analysis which you can clearly see on the visual above for route "Tenerife-Las Palmas" was the route with the highest number of death in a single crash killing 583 passengers, i got curious dug deeper into the summary recorded in the dataset and i found out that this crash was the deadliest ever and still remains the deadliest ever in history, it happened after two boeing747's collided on a foggy runway on the island of tenerife in the canary islands. it occured after series of miscommunications between two flight crew members and Air traffic control 
+- When did it all start flight crashes,the first recorded flight crash was in year 1908, which killed just one person of the two people which were aboard the pilot orville wright sustained injuries but survived and Lt. Thomas selfridge a volunteer passenger died making him the first person ever to die in flight crash
+- The airplane type that recorded the first crash was a flyer wright iii
+- Also the Douglad DC-3 recorded the highest cumulative fatalities with 4793 deaths ( we would see this from the visual below)
+- Military flights crashed the most with about 4.4k crashes of the total 5268 crashes that's a lot, while passenger flights had close to 1k with about 810 flight crashes (wars were a major contributor to military flight crashes)
+
+ ##### Exploring Aeroflot( From our visual below looks like Aeroflot has the most number of crashes and fatalities for all time, well,maybe if knew this before I wouldn't have flown with them last summer, haha)
+- Through the year 1908-2010 Aeroflot was the airline operator with most number of crashes with 
+- Aeroflot had it's worst year in 1972. Clearly the 1970's were not the best years for aeroflot throughout it's history
