@@ -46,7 +46,7 @@ After working on the data, going through the data exploratory analysis ohase i g
 1. #### this visual gives us insight into our first, second and third visual 
 - We can clearly see that over the year 1908-2010 there was 5,268 flight crashes recorded around the globe
 - We  can also see that the number passengers aboard this total of 5,268 flights was 145,000(145k) 
-- And also we can see that 39,000 passengers survived the crashes. well, i had always thought everyone involved in a flight crash would always die, like common i mean the high altitude(scary) LOL, but No, wow! that doesn't happen to be the case, so next time there.    
+- And also we can see that 39,000 passengers survived the crashes. well, i had always thought everyone involved in a flight crash would always die, like common i mean the high altitude(scary) LOL, but No, wow! that doesn't happen to be the case.   
 
 According to WikiHow; 
 the odds of dying on a commercial airline flight are actually as low as 9 million to 1. That said, a lot can go wrong at 33,000 feet (10,058.4m) above the ground , and if you,re unlucky to be aboard when something does , the decisions you make could mean the difference between life and death. Almost 95% of flight crashes have survivors, so even if the worst does happens your odds rent as bad as you think. 
