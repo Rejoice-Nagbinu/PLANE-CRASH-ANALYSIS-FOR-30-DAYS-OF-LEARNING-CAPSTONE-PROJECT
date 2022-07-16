@@ -80,6 +80,7 @@ Because of my curiosity as a data analyst i dived deeper into exploring/uncoveri
 - Also the Douglad DC-3 recorded the highest cumulative fatalities with 4793 deaths ( we would see this from the visual below)
 - Military flights crashed the most with about 4.4k crashes of the total 5268 crashes that's a lot, while passenger flights had close to 1k with about 810 flight crashes (wars were a major contributor to military flight crashes)
 
- ##### Exploring Aeroflot( From our visual below looks like Aeroflot has the most number of crashes and fatalities for all time, well,maybe if knew this before I wouldn't have flown with them last summer, haha)
-- Through the year 1908-2010 Aeroflot was the airline operator with most number of crashes with 
-- Aeroflot had it's worst year in 1972. Clearly the 1970's were not the best years for aeroflot throughout it's history
+ ##### Exploring Aeroflot:![Screenshot (12)](https://user-images.githubusercontent.com/107328546/179363075-99c73177-6b19-4f88-b0d2-dbed5d284db1.png)
+ ( From our visual looks like Aeroflot has the most number of crashes and fatalities for all time, well,maybe if knew this before I wouldn't have flown with them last summer, haha)
+- Through the year 1908-2010 Aeroflot was the airline operator with most number of fatalies with 7156(7.2k) deaths recorded
+- Aeroflot had it's worst year in 1973 with 767 fatalities. Clearly the 1970's were not the best years for aeroflot throughout it's history
