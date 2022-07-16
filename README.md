@@ -44,8 +44,8 @@ i worked on the data to derive insights and to crack all the neccessary informat
 After working on the data, going through the data exploratory analysis ohase i got quite some interesting insights and the answers to my questions/ objectives 
 
 1. #### This visual gives us insight into our first, second and third objective
-- We can clearly see that over the year 1908-2010 there was 5,268 flight crashes recorded around the globe
-- We  can also see that the number passengers aboard this total of 5,268 flights was 145,000(145k) 
+- We can clearly see that over the year 1908-2010 there was 5,268 flight crashes recorded around the globe.
+- We  can also see that the number passengers aboard this total of 5,268 flights was 145,000(145k). 
 - And also we can see that 39,000(39k) passengers survived the crashes. well, i had always thought everyone involved in a flight crash would always die, like common i mean the high altitude(scary) LOL, but No, wow! that doesn't happen to be the case.   
 
 According to WikiHow; 
@@ -54,6 +54,24 @@ the odds of dying on a commercial airline flight are actually as low as 9 millio
 ![Screenshot (6)](https://user-images.githubusercontent.com/107328546/179326781-e034782f-b08f-442e-8e34-9d4453b5df09.png)
 
 2. #### This visual gives us insight into our fourth, fifth and sixth objective 
-- We can see that the number of fatalities was
-- We can also see that the route   had the highest number of fatalities (LOL, I almost felt like I'm never taking this route next time I'm planning on boarding a flight)
-- We can also see that the major causes of airplane crashes was as a result of fuel shortage up their in the sky, also bad weather conditions, the engine failing just like cars and every other mechanical objects does(but up there is a whole lot of problem, LOL because i've never seen an airplane mechanic come up there with parachutes to do repairs, and we also saw that another major cause of crashes was as a result of a flight crashing into different objects(mountains, valleys, ...)
+- We can see that the number of fatalities was 105,000(105k) in all 5268 flights that crashed.
+- We can also see that the route "Tenerife-Las Palmas" had the highest number of fatalities (I almost felt like I'm never taking this route next time I'm planning on boarding a flight, LOL).
+- We can also see that the major causes of airplane crashes was as a result of fuel shortage up their in the sky, also bad weather conditions, the engine failing just like cars and every other mechanical objects does(but up there is a whole lot of problem, because i've never seen an airplane mechanic come up there with parachutes to do repairs, LOL, and we also saw that another major cause of crashes was as a result of a flight crashing into different objects(mountains, valleys, ...).
+
+![Screenshot (10)](https://user-images.githubusercontent.com/107328546/179347832-6b6ff2e5-5053-44b8-8a9e-488cff23ce48.png)
+The outlier in the visual for route are all the routes that were unnamed in the dataset.
+
+3. #### This visual tells us about our last object lets dive in
+- We can see that Russia is the country and location with highest total cummulative fatalities with 6317 deaths(6.3k).
+- Russia had its worst year from flights death in year 1973 with 398 deaths from a single crash.  
+
+![Screenshot (13)](https://user-images.githubusercontent.com/107328546/179349004-bfa620a7-0f4f-4235-a697-5db2313e5879.png)
+
+## ADDITIONAL INSIGHTS 
+Because of my curiosity as a data analyst i dived deeper into exploring/uncovering some more insights from each of my visual, bekow ard my findings
+- From year 1908-2010, the year 1972 recorded the total amount of 104 flight crashes(worse year in the history of flight crashes).
+- Before the peak year of 1972, the number of crashes grew steadily from year 1908 and then then the numbers declined at a fair rate due to technological findings, it is important to note that the early stages from 1908 through the growth and advancement in flight usage there were not as many flights as of today, hence, the year 1908 had just one crash and so was the years that came after with just a very small arithemetic increase in flight crashes until the first peak in the year 1946 with 80 crashed flights, while six years at 1940 18 crashed flights were recorded, the years after 1940 before 1946 which are 1941 had 20 crashes, 1942 had 21, 1943 had 39, 1944 had 47, 1945 had 69.
+- Also i found out that there was a positive correlation between the rise in pasengers aboard, which also would result in an increase in number of flights, and the nuber of fatalities, through the early years.   
+- There where was about 3 times more fatalities than survivors, we could clearly see that in the numbers with fatalities summing up to 105k and survivors at 39k
+- Some other causes of airplane crashes were caused by wildlife(birds crashing into the propellers), landing errors, mechanical errors and pilot errors and also miscommunication between flight crews and air traffic control.
+- From my analysis which you can clearly see on the visual above for route "Tenerife-Las Palmas" was the route with the highest number of death in a single crash killing 583 passengers, i got curious dug deeper into the summary recorded in the dataset and i found out that this crash was the deadliest ever and still remains the deadliest ever in history, it happened after two boeing747's collided on a foggy runway on the island of tenerife in the canary islands. it occured after series of miscommunications between two flight crew members and Air traffic control 
