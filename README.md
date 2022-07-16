@@ -1,7 +1,7 @@
 # PLANE-CRASH-ANALYSIS-FOR-30-DAYS-OF-LEARNING-CAPSTONE-PROJECT
 PLANE CRASH ANALYSIS ALL AROUND THE WORLD FROM 1908-2010 
 
-# INTRODUCTION 
+## INTRODUCTION 
 THIS PROJECT IS FOR THE #30DAYSOFLEARNING, To display my skills in the analysis of data in the data analytics track of the #30DAYSOFLEARNING using POWER BI , and all the overall steps involved( E-T-l, DATA MODELLING,EXPLORATORY ANALYSIS AND EXPLANORYANALYSIS/VISUALIZATION)                                                                   
 ## OBJECTIVE 
 After being assigned this project to analyse the data by my project cordinator, i carefully accessed the data. 
@@ -12,7 +12,7 @@ And after much critical thinking, i found out questions that needed to be answer
 3. Total number of survivors from the crashed flights 
 4. Total number of fatalities as a result of the crashed flights
 5. The major causes of flight crashes 
-6. The route with the major fatalitis caused by flashed crashes
+6. The route with the major fatalitis caused by flight crashes
 7. The location with highest fatalities
 
 ## DATA SOURCE 
@@ -43,14 +43,17 @@ i worked on the data to derive insights and to crack all the neccessary informat
 ## EXPLANATORY ANALYSIS 
 After working on the data, going through the data exploratory analysis ohase i got quite some interesting insights and the answers to my questions/ objectives 
 
-1. #### this visual gives us insight into our first, second and third visual 
+1. #### This visual gives us insight into our first, second and third objective
 - We can clearly see that over the year 1908-2010 there was 5,268 flight crashes recorded around the globe
 - We  can also see that the number passengers aboard this total of 5,268 flights was 145,000(145k) 
-- And also we can see that 39,000 passengers survived the crashes. well, i had always thought everyone involved in a flight crash would always die, like common i mean the high altitude(scary) LOL, but No, wow! that doesn't happen to be the case.   
+- And also we can see that 39,000(39k) passengers survived the crashes. well, i had always thought everyone involved in a flight crash would always die, like common i mean the high altitude(scary) LOL, but No, wow! that doesn't happen to be the case.   
 
 According to WikiHow; 
-the odds of dying on a commercial airline flight are actually as low as 9 million to 1. That said, a lot can go wrong at 33,000 feet (10,058.4m) above the ground , and if you,re unlucky to be aboard when something does , the decisions you make could mean the difference between life and death. Almost 95% of flight crashes have survivors, so even if the worst does happens your odds rent as bad as you think. 
+the odds of dying on a commercial airline flight are actually as low as 9 million to 1. That said, a lot can go wrong at 33,000 feet (10,058.4m) above the ground , and if you,re unlucky to be aboard when something does , the decisions you make could mean the difference between life and death. Almost 95% of flight crashes have survivors, so even if the worst does happens your odds are'nt as bad as you think. So, if you've never boarded a flight before,you have nothing to be scared of, make your next trip on a flight and enjoy the one of the greatest innovations of engineering.
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/107328546/179326781-e034782f-b08f-442e-8e34-9d4453b5df09.png)
 
-2.
+2. #### This visual gives us insight into our fourth, fifth and sixth objective 
+- We can see that the number of fatalities was
+- We can also see that the route   had the highest number of fatalities (LOL, I almost felt like I'm never taking this route next time I'm planning on boarding a flight)
+- We can also see that the major causes of airplane crashes was as a result of fuel shortage up their in the sky, also bad weather conditions, the engine failing just like cars and every other mechanical objects does(but up there is a whole lot of problem, LOL because i've never seen an airplane mechanic come up there with parachutes to do repairs, and we also saw that another major cause of crashes was as a result of a flight crashing into different objects(mountains, valleys, ...)
